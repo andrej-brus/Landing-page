@@ -88,6 +88,7 @@ body{
     padding: 5%;
 }
 img{
+    border: 3px solid #3882F6;
     height: 250px;
     width: 250px;
     border-radius: 25px;
@@ -106,6 +107,8 @@ img{
     align-items: center;
     width: 250px;
     text-align: center;
+    font-size: 18px;
+    color:  #1F2937;
 }
 .quote{
     background-color: #E5E7EB;
